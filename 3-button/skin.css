@@ -33,16 +33,16 @@ start button.
     height: 195px;
 }
 
-.custom .a.pressed{
+.custom .x.pressed{
 background: url(svg/3button-buttons-a.svg);
 }
-.custom .b.pressed{
+.custom .y.pressed{
 background: url(svg/3button-buttons-b.svg);
 }
-.custom .x.pressed{
+.custom .b.pressed{
 background: url(svg/3button-buttons-c.svg);
 }
-.custom .y.pressed{
+.custom .start.pressed{
 background: url(svg/3button-buttons-start.svg);
 }
 
